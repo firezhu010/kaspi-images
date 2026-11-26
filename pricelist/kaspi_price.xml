@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-11-26T13:51:00"
+              xmlns="kaspiShopping"
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>Yonemaker</company>
+  <merchantid>30439074</merchantid>
+  <offers>
+    <offer sku="CQ-1122-TZ00440-001">
+      <model>Кружка керамическая 350 мл туманно-голубая</model>
+      <brand>Без бренда</brand>
+      <price>3990</price>
+    </offer>
+    <offer sku="CQ-1122-TZ00440-002">
+      <model>Кружка керамическая 350 мл чайно-коричневая</model>
+      <brand>Без бренда</brand>
+      <price>3990</price>
+    </offer>
+    <offer sku="CQ-1122-TZ00336-003">
+      <model>Кружка керамическая 360 мл серо-голубая</model>
+      <brand>Без бренда</brand>
+      <price>4290</price>
+    </offer>
+    <offer sku="CQ-1122-TZ00336-004">
+      <model>Кружка керамическая 360 мл изумрудно-зелёная</model>
+      <brand>Без бренда</brand>
+      <price>4290</price>
+    </offer>
+    <offer sku="CQ-1122-48PCS-4-001">
+      <model>Кружка керамическая красная квадратная</model>
+      <brand>Без бренда</brand>
+      <price>3790</price>
+    </offer>
+  </offers>
+</kaspi_catalog>
